@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClassAssignment08</string>
+    <string name="write">WRITE TO CLOUD</string>
+    <string name="read">READ FROM CLOUD</string>
+</resources>
